@@ -1,2 +1,3 @@
 # CodeAlpha_Object-Detection-and-Tracking
 Object Detection and Tracking is a computer vision project that uses YOLO and OpenCV to detect and track objects in real-time through a webcam or video file. The system identifies objects, draws bounding boxes around them, and assigns tracking IDs to monitor their movement across video frames. 
+This project performs real-time object detection and tracking using YOLO and OpenCV. It detects objects from a webcam or video stream, draws bounding boxes around them, and assigns tracking IDs to monitor their movement across frames. The project demonstrates the use of AI and computer vision for object recognition and tracking.
